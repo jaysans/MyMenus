@@ -5,7 +5,7 @@
     <string name="totalmenus">Total Menus =</string>
 
     <!--add/edit menu-->
-    <string name="name">Test NAme for Git</string>
+    <string name="name">Name</string>
     <string name="location">Location</string>
     <string name="type">Cuisine Type</string>
     <string name="hours">Hours</string>
