@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyMenus</string>
+    <string name="addmenu">Add Menu</string>
+    <string name="addbutton">+</string>
+    <string name="totalmenus">Total Menus =</string>
+
+    <!--add/edit menu-->
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="type">Cuisine Type</string>
+    <string name="hours">Hours</string>
+    <string name="budget">Budget</string>
+    <string name="rating">Rating</string>
+    <string name="seats">Seats</string>
+    <string name="contact">Contact Info</string>
+    <string name="extra">Comments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
